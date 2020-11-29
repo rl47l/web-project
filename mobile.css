@@ -1,0 +1,46 @@
+.l-heading{
+  font-size: 40px;
+}
+
+.lead {
+  font-size: 17px;
+  line-height: 1.2;
+}
+
+/* Section: Navbar */
+#navbar {
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 40px;
+}
+
+#navbar .logo {
+  margin-bottom: 17px;
+}
+
+/* why */
+#why .why-content {
+  display: block;
+  text-align: center;
+}
+
+#why .why-content img {
+  width: 100%;
+  margin: 17px 0 0 0;
+}
+
+/* Programs */
+#healthyfood .boxes {
+  display: block;
+}
+
+/* Expert Trainers */
+#workout .work-boxes {
+  display: block;
+}
+
+/* Contact */
+#contact {
+  flex-direction: column;
+  height: 1000px;
+}
