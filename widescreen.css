@@ -1,0 +1,9 @@
+#healthyfood .boxes .box {
+  display: flex;
+  text-align: left;
+}
+
+#healthyfood .boxes .box img {
+  align-self: center;
+  margin-right: 8px;
+}
